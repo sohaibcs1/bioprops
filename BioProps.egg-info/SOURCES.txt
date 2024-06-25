@@ -1,0 +1,10 @@
+README.md
+setup.py
+BioProps.egg-info/PKG-INFO
+BioProps.egg-info/SOURCES.txt
+BioProps.egg-info/dependency_links.txt
+BioProps.egg-info/requires.txt
+BioProps.egg-info/top_level.txt
+bioprops/__init__.py
+bioprops/cell_properties.py
+bioprops/colony_properties.py
